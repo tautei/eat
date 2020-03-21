@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:eat.xcodeproj">
+      location = "self:/Volumes/DATA1 4TB/app/work/eat/which.xcodeproj">
    </FileRef>
 </Workspace>
